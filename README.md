@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+AI+Engineer;10%2B+Years+Shipping+Production+Systems;Node.js+%E2%80%A2+Fastify+%E2%80%A2+PHP+(Yii2)+%E2%80%A2+Flutter+%E2%80%A2+PostgreSQL;Now+Building+RAG+%26+Agentic+LLM+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%26+AI+Engineer;10%2B+Years+Shipping+Production+Systems;Node.js+%E2%80%A2+Fastify+%E2%80%A2+PostgreSQL;Now+Building+RAG+%26+Agentic+LLM+Systems" alt="Typing SVG" />
 
 ### Hi, I'm Yawar Younus 👋
 
